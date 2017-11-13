@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.exe
+D:\VSProjects\ArrayAndListAlgorithms\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.pdb
+D:\VSProjects\ArrayAndListAlgorithms\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.exe
+D:\VSProjects\ArrayAndListAlgorithms\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.pdb

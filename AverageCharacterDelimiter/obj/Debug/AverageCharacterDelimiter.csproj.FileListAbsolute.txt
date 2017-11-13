@@ -1,0 +1,5 @@
+D:\VSProjects\ArrayAndListAlgorithms\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe
+D:\VSProjects\ArrayAndListAlgorithms\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.pdb
+D:\VSProjects\ArrayAndListAlgorithms\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.exe
+D:\VSProjects\ArrayAndListAlgorithms\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.pdb

@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\Batteries\bin\Debug\Batteries.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\Batteries\bin\Debug\Batteries.exe
+D:\VSProjects\ArrayAndListAlgorithms\Batteries\bin\Debug\Batteries.pdb
+D:\VSProjects\ArrayAndListAlgorithms\Batteries\obj\Debug\Batteries.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\Batteries\obj\Debug\Batteries.exe
+D:\VSProjects\ArrayAndListAlgorithms\Batteries\obj\Debug\Batteries.pdb

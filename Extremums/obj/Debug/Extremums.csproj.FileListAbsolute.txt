@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\Extremums\bin\Debug\Extremums.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\Extremums\bin\Debug\Extremums.exe
+D:\VSProjects\ArrayAndListAlgorithms\Extremums\bin\Debug\Extremums.pdb
+D:\VSProjects\ArrayAndListAlgorithms\Extremums\obj\Debug\Extremums.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\Extremums\obj\Debug\Extremums.exe
+D:\VSProjects\ArrayAndListAlgorithms\Extremums\obj\Debug\Extremums.pdb

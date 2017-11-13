@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\ArrayHistogram\bin\Debug\ArrayHistogram.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\ArrayHistogram\bin\Debug\ArrayHistogram.exe
+D:\VSProjects\ArrayAndListAlgorithms\ArrayHistogram\bin\Debug\ArrayHistogram.pdb
+D:\VSProjects\ArrayAndListAlgorithms\ArrayHistogram\obj\Debug\ArrayHistogram.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\ArrayHistogram\obj\Debug\ArrayHistogram.exe
+D:\VSProjects\ArrayAndListAlgorithms\ArrayHistogram\obj\Debug\ArrayHistogram.pdb

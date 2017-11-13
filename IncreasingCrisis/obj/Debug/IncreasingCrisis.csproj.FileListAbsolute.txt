@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\IncreasingCrisis\bin\Debug\IncreasingCrisis.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\IncreasingCrisis\bin\Debug\IncreasingCrisis.exe
+D:\VSProjects\ArrayAndListAlgorithms\IncreasingCrisis\bin\Debug\IncreasingCrisis.pdb
+D:\VSProjects\ArrayAndListAlgorithms\IncreasingCrisis\obj\Debug\IncreasingCrisis.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\IncreasingCrisis\obj\Debug\IncreasingCrisis.exe
+D:\VSProjects\ArrayAndListAlgorithms\IncreasingCrisis\obj\Debug\IncreasingCrisis.pdb
