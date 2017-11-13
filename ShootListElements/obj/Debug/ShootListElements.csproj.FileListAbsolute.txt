@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\ShootListElements\bin\Debug\ShootListElements.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\ShootListElements\bin\Debug\ShootListElements.exe
+D:\VSProjects\ArrayAndListAlgorithms\ShootListElements\bin\Debug\ShootListElements.pdb
+D:\VSProjects\ArrayAndListAlgorithms\ShootListElements\obj\Debug\ShootListElements.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\ShootListElements\obj\Debug\ShootListElements.exe
+D:\VSProjects\ArrayAndListAlgorithms\ShootListElements\obj\Debug\ShootListElements.pdb

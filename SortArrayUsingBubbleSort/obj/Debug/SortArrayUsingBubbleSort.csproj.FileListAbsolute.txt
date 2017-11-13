@@ -1,0 +1,5 @@
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.exe
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.pdb
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.exe
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.pdb

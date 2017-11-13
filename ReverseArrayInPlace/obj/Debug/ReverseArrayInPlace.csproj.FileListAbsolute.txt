@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\ReverseArrayInPlace\bin\Debug\ReverseArrayInPlace.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\ReverseArrayInPlace\bin\Debug\ReverseArrayInPlace.exe
+D:\VSProjects\ArrayAndListAlgorithms\ReverseArrayInPlace\bin\Debug\ReverseArrayInPlace.pdb
+D:\VSProjects\ArrayAndListAlgorithms\ReverseArrayInPlace\obj\Debug\ReverseArrayInPlace.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\ReverseArrayInPlace\obj\Debug\ReverseArrayInPlace.exe
+D:\VSProjects\ArrayAndListAlgorithms\ReverseArrayInPlace\obj\Debug\ReverseArrayInPlace.pdb

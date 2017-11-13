@@ -1,0 +1,5 @@
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.pdb
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.exe
+D:\VSProjects\ArrayAndListAlgorithms\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.pdb

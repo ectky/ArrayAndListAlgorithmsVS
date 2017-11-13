@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\MirrorImage\bin\Debug\MirrorImage.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\MirrorImage\bin\Debug\MirrorImage.exe
+D:\VSProjects\ArrayAndListAlgorithms\MirrorImage\bin\Debug\MirrorImage.pdb
+D:\VSProjects\ArrayAndListAlgorithms\MirrorImage\obj\Debug\MirrorImage.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\MirrorImage\obj\Debug\MirrorImage.exe
+D:\VSProjects\ArrayAndListAlgorithms\MirrorImage\obj\Debug\MirrorImage.pdb

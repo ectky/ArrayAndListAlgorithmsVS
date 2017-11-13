@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\JapaneseRoulette\bin\Debug\JapaneseRoulette.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\JapaneseRoulette\bin\Debug\JapaneseRoulette.exe
+D:\VSProjects\ArrayAndListAlgorithms\JapaneseRoulette\bin\Debug\JapaneseRoulette.pdb
+D:\VSProjects\ArrayAndListAlgorithms\JapaneseRoulette\obj\Debug\JapaneseRoulette.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\JapaneseRoulette\obj\Debug\JapaneseRoulette.exe
+D:\VSProjects\ArrayAndListAlgorithms\JapaneseRoulette\obj\Debug\JapaneseRoulette.pdb

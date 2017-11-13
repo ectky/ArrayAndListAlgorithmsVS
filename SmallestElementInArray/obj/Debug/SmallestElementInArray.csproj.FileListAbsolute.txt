@@ -1,0 +1,6 @@
+D:\VSProjects\ArrayAndListAlgorithms\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe.config
+D:\VSProjects\ArrayAndListAlgorithms\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe
+D:\VSProjects\ArrayAndListAlgorithms\SmallestElementInArray\bin\Debug\SmallestElementInArray.pdb
+D:\VSProjects\ArrayAndListAlgorithms\SmallestElementInArray\obj\Debug\SmallestElementInArray.csprojResolveAssemblyReference.cache
+D:\VSProjects\ArrayAndListAlgorithms\SmallestElementInArray\obj\Debug\SmallestElementInArray.exe
+D:\VSProjects\ArrayAndListAlgorithms\SmallestElementInArray\obj\Debug\SmallestElementInArray.pdb
